@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Low_Pass_Filter_Ing_Galilee.PcbDoc   02/02/2024  22:54:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Low_Pass_Filter_Ing_Galilee.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             8         PTH        147.15mm (5.79inch)
+T2      0.85mm (33mil)                                            Round             12        PTH        152.86mm (6.02inch)
+T3      0.9mm (35mil)                                             Round             23        PTH        229.53mm (9.04inch)
+T4      2mm (79mil)                                               Round             4         PTH        149.39mm (5.88inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              47
+
+Total Processing Time (hh:mm:ss) : 00:00:00

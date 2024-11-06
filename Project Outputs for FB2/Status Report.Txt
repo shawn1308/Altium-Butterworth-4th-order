@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FB2.PrjPcb]
+   Generated File[Low_Pass_Filter_Ing_Galilee.TXT]
+   Generated File[Low_Pass_Filter_Ing_Galilee.LDP]
+   Generated File[Low_Pass_Filter_Ing_Galilee.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:54:17 On 02/02/2024

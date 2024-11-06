@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Latitude 7280\3D Objects\ALTIUM\FB2\Low_Pass_Filter_Ing_Galilee.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
